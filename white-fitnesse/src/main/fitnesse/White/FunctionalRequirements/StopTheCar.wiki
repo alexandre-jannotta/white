@@ -1,0 +1,10 @@
+---
+Test
+---
+As a car, I wan't to stop if the light is red
+
+
+|Tell what the car must do when|
+|light        |action ?        |
+|GREEN        |RUNNING         |
+|RED          |STOPPED         |
